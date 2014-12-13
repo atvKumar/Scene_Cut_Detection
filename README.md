@@ -1,4 +1,4 @@
-Scene_Cut_Detection
+Scene Cut Detection
 ===================
 
 Video Scene Cut Detection Algorithm using Edge Change Ratio
